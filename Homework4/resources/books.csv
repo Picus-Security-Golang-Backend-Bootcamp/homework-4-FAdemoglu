@@ -1,0 +1,2 @@
+Bookname,Stockcode,ISBNNumber,PageNumber,Price,StockCount,AuthorId,IsDeleted
+Sapiens,6055029357,6055029357,412,51,20,2,false
